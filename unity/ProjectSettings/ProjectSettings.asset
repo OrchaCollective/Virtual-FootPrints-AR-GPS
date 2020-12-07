@@ -820,10 +820,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: f183eef4-72bf-420c-80e0-aaadeab22f30
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
-  projectName: Mapbox Unity SDK
-  organizationId: mapbox-inc
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
